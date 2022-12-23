@@ -1,0 +1,15 @@
+.button-primary{
+padding: 0.9rem 5rem;
+border-bottom: 0.5rem;
+background-color: rgb(99, 99, 238);
+color: white;
+font-size: 1rem;
+font-weight: bold
+
+
+
+}
+
+.button-primary:hover {
+    background-color: rgb(131, 66, 192);
+}
