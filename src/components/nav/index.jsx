@@ -1,5 +1,6 @@
 import React from "react";
 import "./styles.css";
+import "./img/logo.jpg"
 
 
 const Navbar = ({children}) => {
@@ -8,7 +9,7 @@ const Navbar = ({children}) => {
         <nav class="navbar navbar-expand-lg light colorHeader">
         <div class="container-fluid">
           <a class="navbar-brand" href="#"
-            ><img src="" class="img-fluid" width="100px" alt="logo"
+            ><img src="./img/logo.jpg" class="img-fluid" width="100px" alt="logo"
           /></a>
           <button
             class="navbar-toggler"
